@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Microtaski-Input/static/css/main.073c9b0a.css",
+    "main.js": "/Microtaski-Input/static/js/main.e51f2d71.js",
+    "static/js/787.47ffe113.chunk.js": "/Microtaski-Input/static/js/787.47ffe113.chunk.js",
+    "index.html": "/Microtaski-Input/index.html",
+    "main.073c9b0a.css.map": "/Microtaski-Input/static/css/main.073c9b0a.css.map",
+    "main.e51f2d71.js.map": "/Microtaski-Input/static/js/main.e51f2d71.js.map",
+    "787.47ffe113.chunk.js.map": "/Microtaski-Input/static/js/787.47ffe113.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.e51f2d71.js"
+  ]
+}
